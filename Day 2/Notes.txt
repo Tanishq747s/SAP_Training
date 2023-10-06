@@ -1,0 +1,31 @@
+Keywords:
+- outliers
+- dataset
+- dataframe
+- series
+- training data : 
+- test data
+- Overfeeding
+- Underfitting
+- High bIased
+- Labelled data
+- Supervised Learning Algorithms:	Linear Regression: Data should be linear (x is directly prop. to y)
+						y = mx + c
+						m = (summation symbol)(x - x')(y - y')   where, '=mean
+						Q. Which plot should you use to show correlation between 2 variables. Ans: Scatter Plot
+						Even if the data is not linear, it can be done linear using log tranformation
+
+						- MAE- Mean Absolutle Error   	(~Summation of value~)(y - y')/n   y = actual value  y' = prediced value
+						- Mean Square Error		(~Summation of value~)(y - y')^2/n   y = actual value  y' = prediced value
+						- RMSE Root Mean Square Error
+						- R^2				It is used to check the efficiency of the model				
+						- Adjusted R
+						
+					Multiple linear regression: Whne there are more than one columns
+
+					Logistic Regression
+
+
+- Mean is generally not preferred when removing outlier values, mode is preferred
+
+- High biased: It is not wokring on itws own data

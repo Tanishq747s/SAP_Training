@@ -1,0 +1,18 @@
+
+====================================================================================================================
+
+					UNSUPERVISED LEARNING
+
+1] K-Means
+- Decide value of K urself
+- datapath of clusters will try to find them near centroid
+- Clustering is used
+- Number of clusters are decided using elbow method
+- WCSS (intertia) - Within clustem sum of square
+- algorithms where we calculate distance, needs scaling down
+- to draw elbow curve we need inertia and number of clusters
+- tSNE, PCS is used for Dimensionality Reduction
+- PCS: Represent higher data into lower data  
+
+2] NLP
+- Lemmetizaton is used if you want an output that you can read

@@ -1,0 +1,45 @@
+03/10/2023
+
+Data Analyst:
+	- They provide the data insights(important suggestions)
+
+Data Analytics with coding libraries: numpy, pandas
+Language: Python
+Tools: Power BI, Tableu, Alteryx(for other countries)
+Big Data technologies (work on big data)
+Big data: Data is distributed among clusters
+DFS: Distributed file system used in big data
+Big Data architecture: 	- Hadoop(1.0,2.0,3.0, drawbacks overcomeas version increased)
+			- Spark (Used in batch Processing(data is alredy stored somewhere) and Stream processing(generally spark is used for streaming application), 
+				ex: Matches streaming online)(Edge computing: auto drive cars)
+				Limitation: Nearby Streaming
+			- Flink: Does both batch and realtime processing, removes drawback of spark (specifically used for actual streaming)
+
+- Docker Image
+- Cloudera
+- Work on clustering part if you want to work on Bid Data Technologies
+- Cassandra
+- Hbase
+- SQL (Sii-Q-L)
+
+- languages for big data: Python, Scala (easy of u know Java)
+- U shoudl know how to integrate spark and scala (high level)
+- dvc: Data versioning control
+- Search up about dvc on yt
+- DVC: add in resume
+- LISP
+- PROLOG
+- scikit learn:  https://scikit-learn.org/stable/
+
+
+-Reinformecemnt Learning: Robotics, Gaming
+
+
+- MACHINE LEARNING
+	- Azure ML Studio
+	- Auto ML
+
+
+My Notes:
+- Search about alteryx (12LPA packages)
+- We worked on 80gb od dataset

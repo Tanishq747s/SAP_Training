@@ -1,0 +1,16 @@
+
+1] SVM (Support Vector Algorithm)
+- It is a suprevised maching learning algortihm
+- Standardisation is used to scale down data which are too large between -1 and 1
+
+
+
+------------------------------------------------------------------------------------------------------------------------------------------------------
+
+3] Decision Trees:
+
+- Works on every type of dataset (whether data is linear, non-linear, whether system supports or not)
+- Tries to build relationship between data using if else relationship.
+- The column which has the most entropy is slected first
+- It can be used for classification as well as regression.
+- Less the entropy, more pure that node column is
